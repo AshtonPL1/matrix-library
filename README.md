@@ -16,5 +16,5 @@ A lightweight Python library for basic matrix operations with full type hints, i
 Clone the repository and install dependencies (no external libraries required):
 
 ```bash
-git clone https://github.com/yourusername/Matrix-library.git
+git clone https://github.com/AshtonPL1/Matrix-library.git
 cd Matrix-library
