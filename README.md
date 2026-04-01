@@ -2,6 +2,7 @@
 
 Eng:
 A lightweight Python library for basic matrix operations with full type hints, input validation, and comprehensive test coverage.
+
 Rus:
 Облегченная библиотека Python для базовых матричных операций с полными подсказками по типу, проверкой входных данных и всесторонним тестированием.
 
@@ -27,6 +28,7 @@ Rus:
 
 Eng:
 Clone the repository and install dependencies according to instructions with a terminal (no external libraries required):
+
 Rus:
 Клонируйте репозиторий и установите зависимости в соответствие с инструкциями, используя терминал (внешние библиотеки не требуются):
 
