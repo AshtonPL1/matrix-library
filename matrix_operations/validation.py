@@ -7,9 +7,6 @@ Provides a unified function to validate matrix structure and content.
 import math
 from typing import Any
 
-from .types import Matrix, MatrixElement
-
-
 def is_valid_matrix(matrix: Any, allow_empty: bool = False) -> bool:
     """
     Validates that the input is a proper matrix.

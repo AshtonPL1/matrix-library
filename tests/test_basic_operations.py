@@ -6,7 +6,6 @@ matrix_to_list, print_matrix, and is_square_matrix using pytest parametrization.
 """
 
 import pytest
-import math
 from matrix_operations.basic_operations import (
     get_element,
     set_element,

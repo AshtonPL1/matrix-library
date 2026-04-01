@@ -9,7 +9,6 @@ Comprehensive tests using pytest parametrization, covering:
 - Edge cases and error handling
 """
 
-import math
 import pytest
 
 from matrix_operations.advanced import is_square, trace, is_symmetric

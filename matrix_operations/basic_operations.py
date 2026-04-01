@@ -6,7 +6,6 @@ getting matrix dimensions, copying matrices, and printing them.
 """
 
 import copy
-from typing import Any
 
 from matrix_operations.types import Matrix, MatrixElement
 from matrix_operations.validation import is_valid_matrix

@@ -7,7 +7,7 @@ Supports both int and float data types.
 """
 
 import random
-from typing import List, Union, Any
+from typing import List, Any
 
 from .types import Matrix, MatrixElement
 from .validation import is_valid_matrix
