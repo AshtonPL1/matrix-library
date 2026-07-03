@@ -52,6 +52,7 @@ tests/                      # Pytest suite
 examples/usage_examples.py  # Usage demonstrations
 requirements.txt
 README.md
+LICENSE.txt
 ```
 
 ---
@@ -153,7 +154,7 @@ More examples are in `examples/usage_examples.py`.
 
 ## License
 
-This project is open‑source and free to use. For questions or suggestions, please open an issue on GitHub.
+This project is licensed under the MIT License. See [LICENSE](https://github.com/AshtonPL1/matrix-library/blob/main/LICENSE.txt) for details.
 
 ## Contact
 
