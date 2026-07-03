@@ -151,8 +151,14 @@ More examples are in `examples/usage_examples.py`.
 
 ---
 
-## License & Contact
+## License
 
 This project is open‑source and free to use. For questions or suggestions, please open an issue on GitHub.
+
+## Contact
+
+### Author: Borovoy Nikita
+### Email: nurmag00@bk.ru
+### GitHub: [AshtonPL1](https://github.com/AshtonPL1)
 
 ---
