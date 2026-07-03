@@ -157,8 +157,8 @@ This project is open‑source and free to use. For questions or suggestions, ple
 
 ## Contact
 
-### Author: Borovoy Nikita
-### Email: nurmag00@bk.ru
-### GitHub: [AshtonPL1](https://github.com/AshtonPL1)
+Author: **Borovoy Nikita** 
+Email: nurmag00@bk.ru  
+GitHub: [AshtonPL1](https://github.com/AshtonPL1)
 
 ---
