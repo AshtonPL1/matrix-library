@@ -21,8 +21,8 @@ Designed for educational use, with strict validation, clear error diagnostics, a
 ## Installation
 
 ```bash
-git clone <repo-url>
-cd <project>
+git clone https://github.com/AshtonPL1/matrix-library
+cd matrix-library
 pip install -r requirements.txt
 pytest tests/   # optional, verify installation
 ```
